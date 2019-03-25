@@ -7,6 +7,8 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
+added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test added for test 
+
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -149,6 +151,6 @@ IE1hcmtkb3duIGZpbGUgaW4gKipTdGFja0VkaXQqKi4gSWYgeW
 LCJjb21tZW50cyI6eyJ0d0VuaWJ6TXpLMWdWRmNVIjp7ImRpc2
 N1c3Npb25JZCI6ImdWanlkUGZXakxSZ0ZVclEiLCJzdWIiOiJn
 aDo2Nzg3OTIxIiwidGV4dCI6InRlc3QgY29tbWVudCIsImNyZW
-F0ZWQiOjE1NTM1MTQ2Nzc2NjB9fSwiaGlzdG9yeSI6Wy0xODky
-MzAzMzgwXX0=
+F0ZWQiOjE1NTM1MTQ2Nzc2NjB9fSwiaGlzdG9yeSI6WzEzODc4
+NDc4ODAsLTE4OTIzMDMzODBdfQ==
 -->
