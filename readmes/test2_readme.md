@@ -22,7 +22,7 @@ This repository provides a script and recipe to train SSD320 v1.2 to achieve sta
  * [Inference performance results](#inference-performance-results)
 * [Changelog](#changelog)
 * [Known issues](#known-issues)
-## Overview kk
+## Overview
 The SSD320 v1.2 model is based on the [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) paper, which describes SSD as "a method for detecting objects in images using a single deep neural network".
 We have altered the network in order to improve accuracy and increase throughput. Changes we have made include:
 - Replacing the VGG backbone with the more popular ResNet50.
@@ -271,11 +271,16 @@ There are no known issues with this model.
 - DEEP LEARNING
 - TRAINING
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjcwODU3OCwtOTQ5MDQ3NjgsLTEwNT
-MxNjk5MTgsMjA4MjcwODU3OCwtOTQ5MDQ3NjgsLTgwNDU2OTE0
-OSwxMjM2MTE5ODMsLTgwNDU2OTE0OSwtOTQ5MDQ3NjgsLTE0Mz
-gwNTEyNCw5NDQyODExMTgsLTU5MzIyODgwOSwtOTQ5MDQ3Njgs
-LTU5MzIyODgwOSwtNzY5MjM5Mzk4LC0xNjE3NTUzOTk5LDIwNj
-EyMzQwOTEsLTE2MTc1NTM5OTksOTEzNjIzOTUwLDIwMTc0Njgy
-Nl19
+eyJkaXNjdXNzaW9ucyI6eyJic2UwQ0FCbm1TTGpqYWNtIjp7In
+N0YXJ0IjoxMTA3LCJlbmQiOjExMTUsInRleHQiOiJPdmVydmll
+dyJ9fSwiY29tbWVudHMiOnsid1JZTjBENlBYeFJ2cm5OYSI6ey
+JkaXNjdXNzaW9uSWQiOiJic2UwQ0FCbm1TTGpqYWNtIiwic3Vi
+IjoiZ2g6Njc4NzkyMSIsInRleHQiOiJkZWxldGluZyBrayIsIm
+NyZWF0ZWQiOjE1NTQ4MTg3MDgzNDl9fSwiaGlzdG9yeSI6Wy05
+ODc5MzkwNzksMjA4MjcwODU3OCwtOTQ5MDQ3NjgsLTEwNTMxNj
+k5MTgsMjA4MjcwODU3OCwtOTQ5MDQ3NjgsLTgwNDU2OTE0OSwx
+MjM2MTE5ODMsLTgwNDU2OTE0OSwtOTQ5MDQ3NjgsLTE0MzgwNT
+EyNCw5NDQyODExMTgsLTU5MzIyODgwOSwtOTQ5MDQ3NjgsLTU5
+MzIyODgwOSwtNzY5MjM5Mzk4LC0xNjE3NTUzOTk5LDIwNjEyMz
+QwOTEsLTE2MTc1NTM5OTksOTEzNjIzOTUwXX0=
 -->
