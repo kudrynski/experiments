@@ -9,8 +9,8 @@ test2 `test`
 > this is a comment
 > blockcomment
 
-    this is code
-    this is code
+`this is code
+this is code
 
 ```
 code `again`
@@ -20,5 +20,6 @@ code again
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzcxMjI5MiwxMjQ3NDYzMDEzXX0=
+eyJoaXN0b3J5IjpbLTYxOTE0MTAzNiwxMDE3NzEyMjkyLDEyND
+c0NjMwMTNdfQ==
 -->
