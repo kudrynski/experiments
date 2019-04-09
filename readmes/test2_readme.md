@@ -23,6 +23,8 @@ code again
 I am adding a new line here on the 9th of April 12:03
 original
 
+adding private
+adding nvidia
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJRRFlWalFsc2hEeFN3UU82Ijp7In
 N0YXJ0Ijo4LCJlbmQiOjEzLCJ0ZXh0IjoidGVzdDIifX0sImNv
@@ -30,7 +32,7 @@ bW1lbnRzIjp7Ik1aTFZXU0xqY3hSVTlpeEsiOnsiZGlzY3Vzc2
 lvbklkIjoiUURZVmpRbHNoRHhTd1FPNiIsInN1YiI6ImdoOjY3
 ODc5MjEiLCJ0ZXh0IjoiSSBhbSBhZGRpbmcgYSBuZXcgY29tbW
 VudCBoZXJlIG9uIHRoZSA5dGggb2YgQXByaWwiLCJjcmVhdGVk
-IjoxNTU0ODA0MjUyMTQwfX0sImhpc3RvcnkiOls4OTE2MjkyMD
-IsLTE2NTAyNzAzNTMsMjQwNjQ0MjcyLC0xNjQ4MDE0NDE4LDEw
-MTc3MTIyOTIsMTI0NzQ2MzAxM119
+IjoxNTU0ODA0MjUyMTQwfX0sImhpc3RvcnkiOlsxMzYyOTA5Nj
+Q4LC0xNjUwMjcwMzUzLDI0MDY0NDI3MiwtMTY0ODAxNDQxOCwx
+MDE3NzEyMjkyLDEyNDc0NjMwMTNdfQ==
 -->
